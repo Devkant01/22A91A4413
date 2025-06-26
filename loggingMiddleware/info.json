@@ -1,0 +1,28 @@
+[
+    {
+        "request_id": 1,
+        "response":{
+                "email": "devkantsah43@gmail.com",
+                "name": "devkant kumar",
+                "rollNo": "22a91a4413",
+                "accessCode": "NFwgRT",
+                "clientID": "3cafe5d3-7eaa-4cbc-a524-3aa0fa713adf",
+                "clientSecret": "bBxgGzFhGXatYrwb"
+            }
+    },
+    {
+        "request_id": 2,
+        "response":{
+            "token_type": "Bearer",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJkZXZrYW50c2FoNDNAZ21haWwuY29tIiwiZXhwIjoxNzUwOTE2NjkzLCJpYXQiOjE3NTA5MTU3OTMsImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiJiOTRhOWQ5Zi1hODc5LTQ0MTUtOWE4Mi0wYjlhMjQwZDE2OTgiLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJkZXZrYW50IGt1bWFyIiwic3ViIjoiM2NhZmU1ZDMtN2VhYS00Y2JjLWE1MjQtM2FhMGZhNzEzYWRmIn0sImVtYWlsIjoiZGV2a2FudHNhaDQzQGdtYWlsLmNvbSIsIm5hbWUiOiJkZXZrYW50IGt1bWFyIiwicm9sbE5vIjoiMjJhOTFhNDQxMyIsImFjY2Vzc0NvZGUiOiJORndnUlQiLCJjbGllbnRJRCI6IjNjYWZlNWQzLTdlYWEtNGNiYy1hNTI0LTNhYTBmYTcxM2FkZiIsImNsaWVudFNlY3JldCI6ImJCeGdHekZoR1hhdFlyd2IifQ.cnI7F_1DoEUCABq9Kp-_AryEDak1U_WIaBF8HsEdRFo",
+            "expires_in": 1750916693
+        }
+    },
+    {
+        "request_id": 3,
+        "response": {
+            "logID": "95a7de1a-273d-4131-9dfa-aa1838532e65",
+            "message": "log created successfully"
+        }
+    }
+]
