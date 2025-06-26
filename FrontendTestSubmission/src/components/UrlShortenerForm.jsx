@@ -62,8 +62,8 @@ const UrlShortenerForm = () => {
     };
 
     return (
-        <div>
-            <h2>URL Shortener</h2>
+        <div style={{ margin: 'auto', width: '80%' }}>
+            <h2 style={{ textAlign: 'center'}}>URL Shortener</h2>
 
             {forms.map((form, index) => (
                 <div key={index}>
